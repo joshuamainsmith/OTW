@@ -1,0 +1,9 @@
+When you've entered the bandit2 tutorial, you'll notice that there's a file with the name
+
+spaces in this filename
+
+In order to see the contents of the file, you'll need to type
+
+more "spaces in this filename"
+
+into the terminal.

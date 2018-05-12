@@ -1,0 +1,25 @@
+For this level you'll notice a directory with the name
+
+inhere
+
+Type into the terminal
+
+cd inhere
+
+When typing "ls" whle in inhere, you'll notice nothing shows up.
+
+In order to display hidden files, you'll need to enter
+
+ls -a
+
+This shows all files in the directory.
+
+There's a file names
+
+.hidden
+
+Type into the terminal
+
+more .hidden
+
+This is your password for bandit4
