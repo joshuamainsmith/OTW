@@ -1,0 +1,13 @@
+Download Cygwin if you're using Windows.
+
+Type
+
+ssh bandit0bandit.labs.overthewire.org -p 2220
+
+into the terminal.
+
+When prompted for a password, type
+
+bandit0
+
+This will complete level 0
