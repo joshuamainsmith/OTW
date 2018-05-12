@@ -1,0 +1,19 @@
+First, type this into the terminal:
+
+ssh bandit1@bandit.labs.overthewire.org -p 2220
+
+Then enter the password obtained from the previous exercise.
+
+Once you gain connection, type "ls" into the terminal.
+
+You'll see a file with the name "-" (without quotes).
+
+This is also used for a command in other instances.
+
+In order to see the contents of the file, you'll need to type
+
+more ./-
+
+into the terminal.
+
+You'll then be presented with the password for the next exercise.
