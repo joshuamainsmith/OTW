@@ -10,4 +10,15 @@ When prompted for a password, type
 
 bandit0
 
+
+The next step is to type "ls" into the terminal to list all of the directories and files.
+
+"readme" will appear.
+
+Type "more readme" in order to reveal the password for the next level.
+
+When finished, type "logout" into the terminal in order to access the next level.
+
+
 This will complete level 0
+
